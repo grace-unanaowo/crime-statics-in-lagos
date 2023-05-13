@@ -1,2 +1,3 @@
-# crime-statics-in-lagos
-crime analysis
+# crime-statics-in-nigeria
+## crime analysis in nigeria against lawful authorities
+
